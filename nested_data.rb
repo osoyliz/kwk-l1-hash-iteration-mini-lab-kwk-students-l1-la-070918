@@ -34,6 +34,3 @@
 people = [["Maddy" + " is a"+ " cool gal"],["Hunter"+  " is a " + " snorer"]]
 puts people
 
-people = [[" Maddy "," cool gal "],[" Hunter "," snorer "]]
-puts people
-
