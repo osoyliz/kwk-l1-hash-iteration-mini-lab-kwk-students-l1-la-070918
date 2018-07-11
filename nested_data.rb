@@ -34,3 +34,5 @@
 people = [["Maddy" + " is a"+ " cool gal"],["Hunter"+  " is a " + " snorer"]]
 puts people
 
+16_cents = [["quarters=0" + " dimes=1" + " pennies=1 " + " nickels=1 == 16 cents"]]
+puts 16_cents
