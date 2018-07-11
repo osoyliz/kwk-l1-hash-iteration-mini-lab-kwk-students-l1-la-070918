@@ -31,8 +31,8 @@
 # :barry_bonds => {:hits => 2935, :home_runs => 762, :obp => 444}}
 # puts baseball_players {
 
-people = [["Maddy" + " is a"+ " cool gal"],["Hunter"+  " is a " + " snorer"]]
-puts people
+# people = [["Maddy" + " is a"+ " cool gal"],["Hunter"+  " is a " + " snorer"]]
+# puts people
 
 sixteen_cents = [["quarters=0" + " dimes=1" + " pennies=1 " + " nickels=1 == 16 cents"]]
 puts sixteen_cents
